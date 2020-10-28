@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="helloWorld.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="16"/>
+        <CursorPos X="20" Y="34"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="5" HistoryIndex="4">
+      <Position1>
+        <Filename Value="helloWorld.pas"/>
+        <Caret Line="33" Column="16" TopLine="14"/>
+      </Position1>
+      <Position2>
+        <Filename Value="helloWorld.pas"/>
+        <Caret Line="9"/>
+      </Position2>
+      <Position3>
+        <Filename Value="helloWorld.pas"/>
+        <Caret Line="17" Column="12" TopLine="4"/>
+      </Position3>
+      <Position4>
+        <Filename Value="helloWorld.pas"/>
+        <Caret Line="33" Column="16" TopLine="15"/>
+      </Position4>
+      <Position5>
+        <Filename Value="helloWorld.pas"/>
+        <Caret Line="22" Column="8" TopLine="12"/>
+      </Position5>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

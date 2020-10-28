@@ -1,0 +1,47 @@
+~Pascal Tutorial~
+
+Language Vocabulary:
+
+writeln = display string on screen and creates a second blank line *similar to C#*
+write = dislay string on screen and does not create a second blank line *similar to C#*
+readln = program will wait before closing
+var = creates a new empty variable
+: = used when declaring a new variable and it's data type
+:= = set variable as/change variable status
+
+Data Types:
+*placed under VAR heading*
+
+string = string data type
+char = char data type
+integer = integer data type
+real = floating point data type
+??? = boolean data type
+
+Mathematical Operators:
+*Pascal follows the PEMDAS order of operations*
+
++ = addition
+- = subtraction
+* = multiplication
+/ = division
+div = integer division
+mod = remainder
+
+<EXAMPLE>
+
+Division:
+*Pascal displays division results in scientific notation*
+
+10/3 = 3.333333333333E+0000
+*In order to fix this, look below*
+10/3 = 3:0:2 = 3.33 (this method excludes a space to the far left)
+10/3 = 3:5:2 =  3.33 ( this method includes a space to the far left)
+
+Language Rules:
+
+<end all commands with ;>
+<when doing math, do not include '', ('2+3'), else it returns the operation as a string to be printed>
+<variables can not begin with a number>
+<when setting a string or char value for the first time, use '' and not "">
+<when setting an integer or real value for the first time, do not use any quotes>
